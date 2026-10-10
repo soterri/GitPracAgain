@@ -1,5 +1,7 @@
 package SolarSystem;
 
+
+
 public class SolarSys {
 	public static void main(String[] args) {
 		
@@ -9,6 +11,8 @@ public class SolarSys {
 	BB.Jupiter="1";
 	System.out.println("Sailor Moon");
 	
+	FeatureSun fs = new FeatureSun();
+	fs.color="yellow";
 	
 
 }
